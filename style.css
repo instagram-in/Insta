@@ -34,8 +34,13 @@ a
 /*Logo styling*/
 h1
 {
-    font-family: 'Pacifico', cursive;
     font-size: 40px;
+    margin-top: 2rem;
+}
+.insta-link
+{
+  font-size: 30px;
+  text-decoration: underline;
 }
 
 /*body background color*/
@@ -175,13 +180,12 @@ body
     margin-right: .7rem;
 }
 
-/*password reset styling*/
+/*word reset styling*/
 .password-reset
 {
     font-size: 1.2rem;
     text-align: right;
     color: #0095f6;
-    font-weight: bold;
     margin-bottom: 1em;
     margin-top: .7em;
 }
@@ -191,7 +195,7 @@ body
 {
     text-align: center;
     font-size: 1.4rem;
-    color: #262626;
+    color: grey;
     padding: 2rem 0;
     background-color: #fff;
     /* border: 2px solid #eee; */
@@ -202,17 +206,16 @@ body
 {
     text-align: center;
     font-size: 1.4rem;
-    color: #262626;
     padding: 0 0 2rem;
     background-color: #fff;
     /* border: 2px solid #eee; */
     margin: 0 0 9em;
 }
 
-.sign-up a
+a
 {
     color: #3897f0;
-    font-weight: bold;
+    font-weight:bold;
 }
 
 
